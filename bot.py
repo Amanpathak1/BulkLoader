@@ -15,7 +15,7 @@ load_dotenv()
 # Configs
 API_HASH = os.environ.get('4fc4c646519fe43891bebd1449744b7e') # Api hash
 APP_ID = int(os.environ.get('22253680')) # Api id/App id
-BOT_TOKEN = os.environ.get('6852796296:AAEdlByP7CjKwN8YEWjcKF9ETwBdNSQ2zQM') # Bot token
+BOT_TOKEN = os.environ.get('7139414567:AAGlouX5kzQeDzX52THZdncFA7X_KFZpYOg') # Bot token
 OWNER_ID = os.environ.get('6352927253') # Your telegram id
 AS_ZIP = bool(os.environ.get('AS_ZIP', False)) # Upload method. If True: will Zip all your files and send as zipfile | If False: will send file one by one
 BUTTONS = bool(os.environ.get('BUTTONS', False)) # Upload mode. If True: will send buttons (Zip or One by One) instead of AZ_ZIP | If False: will do as you've fill on AZ_ZIP
