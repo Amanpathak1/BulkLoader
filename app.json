@@ -12,7 +12,7 @@
   "repository": "https://github.com/X-Gorn/BulkLoader",
   "env": {
     "BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "6852796296:AAEdlByP7CjKwN8YEWjcKF9ETwBdNSQ2zQM, as a string.",
       "value": "6722932988:AAFJJr5T-PyN3SvFd6EzwsJVkM333CfsHhU"
     },
     "APP_ID": {
@@ -24,7 +24,7 @@
       "value": "4fc4c646519fe43891bebd1449744b7e"
     },
     "OWNER_ID": {
-      "description": "Your telegram id, not username. Open https://t.me/MissRose_bot and send /id to bot. Left empty if you want bot public",
+      "description": "6352927253, not username. Open https://t.me/MissRose_bot and send /id to bot. Left empty if you want bot public",
       "value": "6352927253",
       "required": false
     },
